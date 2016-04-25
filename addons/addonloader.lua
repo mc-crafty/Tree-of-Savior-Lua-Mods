@@ -16,6 +16,7 @@ dofile("../addons/guildmates/guildmates.lua");
 dofile("../addons/showInvestedStatPoints/showInvestedStatPoints.lua");
 dofile("../addons/betterquest/betterquest.lua");
 dofile("../addons/hidemaxedattributes/hidemaxedattributes.lua");
+dofile("../addons/removepetcommand/removepetcommand.lua");
 
 --do not touch below here
 local addonLoaderFrame = ui.GetFrame("addonloader");
